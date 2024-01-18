@@ -1,0 +1,10 @@
+x=10e3
+Y=10E4
+print(x)
+print(Y)
+x=3+5j
+print(x)
+print(type(x))
+#following randim number module will give random number in our range
+import random
+print(random.randrange(1,20))
